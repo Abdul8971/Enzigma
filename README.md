@@ -22,6 +22,11 @@ DELETE	/api/task/:id	Delete a task by ID
 
 Setup
 Clone the repository:
-git clone 
 Install dependencies:
+
+Create a .env file.
+PORT=5000
+MONGO_URI="your mongodb uri"
+
+
 
